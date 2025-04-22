@@ -6,7 +6,7 @@ function ContactMeRight() {
   return (
     <div className="flex flex-col items-center justify-center gap-12 text-white">
       <img
-        src="/public/public/images/email-image.png"
+        src="/images/email-image.png"
         alt="email image"
         className="max-w-[300px]"
       />
